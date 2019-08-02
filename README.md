@@ -1,2 +1,2 @@
-# JH-DataScience
+# datasciencecoursera
 Data Science Specialization study
